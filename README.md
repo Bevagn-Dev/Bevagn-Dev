@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ben! 👋
 
-<!--
-**Bevagn-Dev/Bevagn-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎮 Game Developer | 🇬🇧 Based in the UK**
 
-Here are some ideas to get you started:
+I'm a game developer with 5 years of formal education in game development, having earned a Distinction at college and a First Class degree at Staffordshire University. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+* **Primary Focus:** Unreal Engine (Blueprints) & Blender
+* **Engine Experience:** Unreal Engine, Unity (2+ years)
+* **Languages:** C++, C#, Python
+
+### 🚀 What I'm Currently Working On
+* 🛒 **Trolley Roguelite:** An online multiplayer Roguelite built in Unreal Engine where players collect trolleys.
+* 🕳️ **PSX Horror:** A short, retro-style PSX horror game focused on exploring a mysterious well.
